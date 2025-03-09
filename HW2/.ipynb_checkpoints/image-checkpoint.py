@@ -4,7 +4,8 @@ import numpy as np
 from imageio import imread
 from skimage.transform import rotate, resize
 
-
+import struct
+from imageio import imwrite
 
 class Image:
     """
