@@ -1,5 +1,5 @@
 **ME-5920 Final Project – Human Motion Prediction with LSTMs**
-Team Members
+**Team Members:**
 
 *Eric Upchurch*
 
@@ -8,8 +8,11 @@ Team Members
 *Christopher Santillan*
 
 
-**Repository Structure:
-Top-Level Scripts**
+**Repository Structure**
+
+**Final_project/**
+
+**Top-Level Scripts**
 
 convertData.py
 
