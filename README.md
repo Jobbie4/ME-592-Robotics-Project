@@ -31,7 +31,7 @@ realTimeGraph.py
 
 lstm_model_6/ and lstm_model_8/
 
-↳ *Model checkpoints and their evaluation results.*
+↳ *Model 6 & 8 evaluation results.*
 
 ![Model 6](https://github.com/user-attachments/assets/b98ebc57-8441-4a2c-acf2-46c38daee175)
 ![Model 8](https://github.com/user-attachments/assets/eb33166e-0743-4a1d-b77b-85e0f8d0b0b9)
@@ -40,7 +40,7 @@ lstm_model_6/ and lstm_model_8/
 **Data Folder
 crowds/data/**
 
-↳ *Contains all raw datasets used in the project:
+↳ *Contains all raw datasets used in the project:*
 
 Zara01/
 
