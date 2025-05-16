@@ -67,3 +67,14 @@ Model_2_config_25_vary_pred_seq_len/
 Model_3_config_25_vary_pred_seq_len_epochs_20_30/
 
 ↳ *Models trained with longer epochs (20 and 30).*
+
+**Note:**
+If you'd like to explore each team member’s individual work, check out the following branches:
+
+eric_final
+
+mark_final
+
+chris_final
+
+These branches contain similar base code, but were individually modified to support each member’s specific training, testing, and experimentation needs
