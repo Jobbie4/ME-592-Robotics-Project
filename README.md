@@ -40,8 +40,9 @@ lstm_model_6/ and lstm_model_8/
 ![Model 8](https://github.com/user-attachments/assets/eb33166e-0743-4a1d-b77b-85e0f8d0b0b9)
 
 
-**Data Folder
-crowds/data/**
+**Data Folder**
+
+crowds/data/
 
 ↳ *Contains all raw datasets used in the project:*
 
@@ -49,11 +50,12 @@ Zara01/
 
 Zara02/
 
-Arxiwpiskopi_flock/*
+Arxiwpiskopi_flock/
 
-**Trained Model Batches
-Models_Trained_on_Final_Presentation/**
+**Trained Model Batches**
 
+Models_Trained_on_Final_Presentation/
+      
 ↳ *Final models trained on Zara01 for our presentation.*
 
 Models_Trained_with_vary_seq_and_pred_len/
